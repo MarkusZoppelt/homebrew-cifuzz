@@ -1,11 +1,12 @@
-# MarkusZoppelt Cifuzz
+# cifuzz homebrew tap
 
-## How do I install these formulae?
+## How do I install cifuzz via homebrew?
 
-`brew install markuszoppelt/cifuzz/<formula>`
+    brew install markuszoppelt/cifuzz/cifuzz
 
-Or `brew tap markuszoppelt/cifuzz` and then `brew install <formula>`.
+or:
 
-## Documentation
+    brew tap markuszoppelt/cifuzz 
 
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+    brew install cifuzz
+
